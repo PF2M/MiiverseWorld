@@ -1,0 +1,2 @@
+[19-Feb-2019 14:13:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pfmcom/miiverse-world-dev/php/inc/connect.php on line 6
+[19-Feb-2019 14:13:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pfmcom/miiverse-world-dev/php/inc/connect.php on line 6

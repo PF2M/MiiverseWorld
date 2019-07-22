@@ -21,7 +21,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST' && empty($_POST['x'])) {
     if(!preg_match('/^[A-Za-z0-9-._]{1,32}$/', $_POST['username'])) {
         $error = 'Your username is invalid.';
         goto showForm;
-    }x
+    }
     if(mb_strlen($_POST['password']) > 72) {
         $error = 'Your password is too long.';
         goto showForm;

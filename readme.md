@@ -11,5 +11,5 @@ It's a Miiverse clone, except you can make posts outside of communities and a fe
 * Add the ability to hide a user from recommendations
 * Add post editing?
 * Add messages?
-## Please don't do anything else with this, actually
+## Please don't do anything with this, actually
 Thank you.

@@ -46,7 +46,6 @@ require_once('inc/header.php');
                     if($_GET['offset'] === '0') {
                         showNoContent('You\'ve followed all the users you can for now.');
                     }
-                    echo '">';
                 } else {
                     echo '?offset=' . ($_GET['offset'] + 20) . '">';
                     while($row = $result->fetch_array()) {

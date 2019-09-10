@@ -47,28 +47,20 @@ require_once('inc/header.php');
                         <h3 class="topic-description"><img class="description-image" src="/assets/img/special/icon-topic.png">Tags</h3>
                         <p class="description">Want to allow readers to filter down to only your art, videos, or updates on that game you're making? Just tag it! You can add as many tags you want to any of your Miiverse World posts, and you can even follow tags to see all the latest updates in your feed.</p>
                         <h3 class="diary-description"><img class="description-image" src="/assets/img/special/icon-diary.png">Free Speech</h3>
-                        <p class="description">As the site's content is curated by the userbase, the only rules you have to follow are a select few to keep us out of trouble. Otherwise, do whatever you like! Make a Project M community, discuss world affairs, and post all the lolicon you want. If only I had free speech, or at the very least free will.</p>
-                        <h3 class="artwork-description"><img class="description-image" src="/assets/img/special/icon-artwork.png">Original!</h3>
-                        <p class="description">Miiverse World is the first internet website <strong>ever</strong> to not be based on Cedar or Ciiverse. I built this shit with my BARE FUCKING HANDS. None of you stupid fucking Windows users know what it feels like to make a <em>real</em> Miiverse clone, and none of you ever will, because you continue to stay in your hole of downloading somebody else's PHP files and uploading them to 000webhost and calling it original. Fuck you. Suck my dick.</p>
-                        <p class="note-artwork">&#9670; Paper is made from wood, trees, and paper.</p>
-                        <img class="illust2" src="/assets/img/special/illust2.png">
+                        <p class="description">As the site's content is curated by the userbase, the only rules you have to follow are a select few to keep us out of trouble. Otherwise, do whatever you like! Make a Project M community, discuss world affairs, and post all the lolicon you want. If only I had free speech, or at the very least free will.</p></p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="contents-bg bg1">
-        <div class="body-content">
-            <div class="new-album-text-wrapper">
-                <h2 class="new-album-title"><img class="description-image" src="/assets/img/special/icon-newalbum.png">Stop</h2>
-                <p>We don't need any more of these stupid fucking Miiverse clones. Why do you keep making them? When will you move on with our life and do something that actually helps humanity?</p>
-                <p class="note">&#9670; Sorry, it's too late to back out now. I may as well make this the best one so no Miiverse clones ever have to be made again.<br>&#9670; You say that every time. Just give up already.<br>&#9670; Shut up.<br>&#9670; No, you shut up.<br>&#9670; :(</p>
-            </div>
-            <img class="new-album-image test-album-screenshot-img" src="/assets/img/special/album-image-us.png">
+    <div class="contents-bg bg2">
+        <div class="other body-content">
+            <h2>Other Information</h2>
+            <ul>
+                <li>It's not actually finished yet. Nobody is supposed to know about this other than a select few people. Enter at your own risk.</li>
+                <li><img src="/assets/img/special/marios-princess.png" width="420"></li>
+            </ul>
         </div>
-    </div>
-    <div class="footer">
-        <a class="footer" href="http://nova.lol/">Please go somewhere else</a>
     </div>
 </div>
 <?php require_once('inc/footer.php'); ?>

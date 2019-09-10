@@ -57,7 +57,6 @@ if($_GET['offset'] === '0') { ?>
                 </ul>
             </div>
         <?php } ?>
-        <a class="button" href="/communities/create">Create Community</a><br>
     </div>
 <?php } ?>
 <div class="community-main community-top post-list-outline">

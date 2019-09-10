@@ -67,15 +67,6 @@ require_once('inc/header.php');
             <img class="new-album-image test-album-screenshot-img" src="/assets/img/special/album-image-us.png">
         </div>
     </div>
-    <div class="contents-bg bg2">
-        <div class="other body-content">
-            <h2>Other Information</h2>
-            <ul>
-                <li>It's not actually finished yet. Nobody is supposed to know about this other than a select few people. Enter at your own risk.</li>
-                <li><img src="/assets/img/special/marios-princess.png" width="420"></li>
-            </ul>
-        </div>
-    </div>
     <div class="footer">
         <a class="footer" href="http://nova.lol/">Please go somewhere else</a>
     </div>

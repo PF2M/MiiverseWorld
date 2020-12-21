@@ -69,7 +69,7 @@ function getAvatar($avatar, $has_mh, $feeling = 0) {
         }
         return htmlspecialchars($avatar);
     }
-    return htmlspecialchars('https://mii-secure.cdn.nintendo.net/' . urlencode($avatar) . '_' . urlencode(getFeelingName($feeling)) . '_face.png');
+    return 'https://mii-secure.cdn.nintendo.net/' . $avatar . '_' . getFeelingName($feeling) . '_face.png';
 }
 function getBody($body, $cutoff = false) {
     if($cutoff === true && mb_strlen($body) > 203) {

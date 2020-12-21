@@ -66,7 +66,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
         goto showForm;
     }
     if(!empty($_POST['nnid'])) {
-        $ch = curl_init('https://ariankordi.net/seth/' . urlencode($_POST['nnid']));
+        $ch = curl_init('https://pf2m.com/hash/' . urlencode($_POST['nnid']));
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         $miiHash = curl_exec($ch);
         $responseCode = curl_getinfo($ch, CURLINFO_RESPONSE_CODE);

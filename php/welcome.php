@@ -47,7 +47,7 @@ require_once('inc/header.php');
                         <h3 class="topic-description"><img class="description-image" src="/assets/img/special/icon-topic.png">Tags</h3>
                         <p class="description">Want to allow readers to filter down to only your art, videos, or updates on that game you're making? Just tag it! You can add as many tags you want to any of your Miiverse World posts, and you can even follow tags to see all the latest updates in your feed.</p>
                         <h3 class="diary-description"><img class="description-image" src="/assets/img/special/icon-diary.png">Free Speech</h3>
-                        <p class="description">As the site's content is curated by the userbase, the only rules you have to follow are a select few to keep us out of trouble. Otherwise, do whatever you like! Make a Project M community, discuss world affairs, and post all the lolicon you want. If only I had free speech, or at the very least free will.</p>
+                        <p class="description">As the site's content is curated by the userbase, the only rules you have to follow are a select few to keep us out of trouble. Otherwise, do whatever you like! Make a Project M community, discuss world affairs, and post all the pictures of Drake eating a hotdog you want. If only I had free speech, or at the very least free will.</p>
                         <h3 class="artwork-description"><img class="description-image" src="/assets/img/special/icon-artwork.png">Original!</h3>
                         <p class="description">Miiverse World is the first internet website <strong>ever</strong> to not be based on Cedar or Ciiverse. I built this shit with my BARE FUCKING HANDS. None of you stupid fucking Windows users know what it feels like to make a <em>real</em> Miiverse clone, and none of you ever will, because you continue to stay in your hole of downloading somebody else's PHP files and uploading them to 000webhost and calling it original. Fuck you. Suck my dick.</p>
                         <p class="note-artwork">&#9670; Paper is made from wood, trees, and paper.</p>
@@ -71,13 +71,13 @@ require_once('inc/header.php');
         <div class="other body-content">
             <h2>Other Information</h2>
             <ul>
-                <li>It's not actually finished yet. Nobody is supposed to know about this other than a select few people. Enter at your own risk.</li>
-                <li><img src="/assets/img/special/marios-princess.png" width="420"></li>
+                <li>Miiverse World was a bizarre attempt to innovate on the concept of Miiverse clones, a site that I created because I was bored and wanted to build something original after Indigo failed in my eyes. I refused to edit the original Miiverse JS or CSS files, and all new features had to be designed entirely within HTML and PHP - this choice, combined with the decision to focus the site around the feed instead of relying on communities, left Miiverse World as a quirky, yet somber chapter in what was probably one of the worst years of my life; intensified by the decision to never actually host it. As a result, most people from around that time likely remember it more for its rehosts, many of which chose to forego the front page and add custom themes. Are you truly getting the Miiverse World experience if you're using it with an Anything Goes Community? ...Actually, scratch that: <em>should</em> you get the Miiverse World experience? We live in a completely different world now. Nobody wants to use Miiverse clones anymore, they've all moved on to bigger and better things, like 9-5 jobs and becoming Vtubers or something. Everyone remembers the good old days, but nobody wants to go back to them. I admit that I probably shouldn't have thrown myself headfirst into the world of running my own social media at the age of 16, especially when the target audience ended up becoming a solid 50/50 split of pastel-colored autistic people and the worst human beings you've ever met. But you know, at the same time, I don't think I'd be who I am today without it. We all need something to just explode in our face every once in a while. It is only in that moment of destroying everything around us and then slowly building it back up again that we learn how things really could've been all along.<br><br>...But what do I know? I'm just a barista.</li>
+                <li><img src="/assets/img/special/the-wolves.jpg" width="420"></li>
             </ul>
         </div>
     </div>
     <div class="footer">
-        <a class="footer" href="http://nova.lol/">Please go somewhere else</a>
+        <a class="footer" href="https://undertale.com/">Please go somewhere else</a>
     </div>
 </div>
 <?php require_once('inc/footer.php'); ?>
